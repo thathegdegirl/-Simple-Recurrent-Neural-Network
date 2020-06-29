@@ -1,1 +1,1 @@
-# -Simple-Recurrent-Neural-Network
+# Simple-Recurrent-Neural-Network
